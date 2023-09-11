@@ -1,6 +1,9 @@
 # data-analytics
+### Team members:
+- [Zubeir huweidi](https://github.com/ZizouHuweidi)
+- [Yahia Boussaid](https://github.com/yahbouss)
 
 ## Project idea
 
-- Analyse Stack Overflow data and make relevant stats
-  - a possibility of adding sentiment analysis
+Project: [Detecting Insults in Social Commentary](https://www.kaggle.com/competitions/detecting-insults-in-social-commentary/)
+
