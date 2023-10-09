@@ -7,3 +7,4 @@
 
 Project: [Detecting Insults in Social Commentary](https://www.kaggle.com/competitions/detecting-insults-in-social-commentary/)
 
+tf idf
