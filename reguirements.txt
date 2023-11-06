@@ -1,0 +1,5 @@
+pandas
+matplotlib.pyplot
+wordcloud
+seaborn
+sklearn.feature_extraction.text
