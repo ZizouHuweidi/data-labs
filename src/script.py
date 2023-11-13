@@ -8,11 +8,6 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-
-
-
-
-
 df = pd.read_csv('../data/train.csv')
 
 ### 2.2. Data exploration
