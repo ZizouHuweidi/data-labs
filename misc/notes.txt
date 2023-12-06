@@ -1,5 +1,0 @@
-- Possible models
-  -  Logistic Regression, LSTM, Tree Models, CNN, RNN, BERT, Roberta
-
-- Evaluation Metrics
-
