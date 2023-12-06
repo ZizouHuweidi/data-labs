@@ -1,5 +1,6 @@
 pandas
-matplotlib.pyplot
+matplotlib
 wordcloud
-seaborn
-sklearn.feature_extraction.text
+scikit-learn
+nltk
+numpy
